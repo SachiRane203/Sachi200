@@ -1,1 +1,1 @@
-Git ProjectSachi 200
+Git ProjectSachi 20
